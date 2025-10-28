@@ -25,3 +25,4 @@ USB2.0 HUB可以插接收器使用，建议插主键盘和鼠标的接收器，�
 
 [外壳模型地址：](https://makerworld.com/zh/models/1734221-left-hand-gaming-keyboard-case-r3#profileId-1842331)
 
+![alt text](image.png)
