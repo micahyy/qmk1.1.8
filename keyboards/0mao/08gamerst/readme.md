@@ -7,19 +7,21 @@ USB2.0 HUB可以插接收器使用，建议插主键盘和鼠标的接收器，�
 ![alt text](IMG_3332.JPG)
 
 快捷键：
-|按键|触发|
-|-|-|
-|长按NumLock|	MO(1)|
-|长按NumLock+(*)|	MO(2)|
-|长按NumLock+7	|打开/关闭RGB|
-|长按NumLock+0	|切换灯效|
-|长按NumLock+8	|饱和度+|
-|长按NumLock+2	|饱和度-|
-|长按NumLock+4	|颜色+|
-|长按NumLock+6	|颜色-|
-|长按NumLock+(-)|	亮度+|
-|长按NumLock+(+)|	亮度-|
-|长按NumLock+(*)+(-)|	打开/关闭全键无冲|
+|按键|触发|备注|
+|-|-|-|
+|FN+ALT+Lsft	|打开/关闭RGB
+|FN+ALT+Z	    |切换灯效
+|FN+ALT+S	    |饱和度+
+|FN+ALT+X	    |饱和度-
+|FN+ALT+D	    |颜色+
+|FN+ALT+C	    |颜色-
+|FN+ALT+F	    |亮度+   
+|FN+ALT+V	    |亮度-
+|FN+ALT+G	    |灯效速度+
+|FN+ALT+B	    |灯效速度-
+|FN+ALT+tab	    |打开/关闭全键无冲	|默认开启全键无冲
+|FN+ALT+ESC	    |恢复出厂设置	
+|FN+ALT+Mute	|进入bootloader	|Mute为旋钮位或者F5
 
 [淘宝店铺地址：](https://item.taobao.com/item.htm?ft=t&id=827106189521&sku_properties=5919063%3A3266779%3B122216346%3A21959%3B122216808%3A79550452)
 
